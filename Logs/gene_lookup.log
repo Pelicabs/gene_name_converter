@@ -1,30 +1,7 @@
-2025-08-17 17:55:24,508 - INFO - Began new lookup.
-2025-08-17 17:55:25,985 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 17:55:26,107 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 17:55:26,841 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 17:55:27,024 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
-2025-08-17 17:57:27,726 - INFO - Began new lookup.
-2025-08-17 17:57:29,082 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 17:57:29,204 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 17:57:29,935 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 17:57:30,118 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
-2025-08-17 18:01:33,907 - INFO - Began new lookup.
-2025-08-17 18:01:35,483 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 18:01:35,604 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 18:01:36,338 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 18:01:36,523 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
-2025-08-17 18:02:02,978 - INFO - Began new lookup.
-2025-08-17 18:02:04,330 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 18:02:04,453 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 18:02:05,185 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 18:02:05,368 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
-2025-08-17 18:03:07,013 - INFO - Began new lookup.
-2025-08-17 18:03:08,399 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 18:03:08,520 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 18:03:09,250 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 18:03:09,434 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
-2025-08-17 18:03:42,938 - INFO - Began new lookup.
-2025-08-17 18:03:44,594 - INFO - Multiple entries found for UCN2: Approved Symbols ['UCN2', 'UTS2']
-2025-08-17 18:03:44,715 - INFO - Multiple entries found for HGNC:5: Approved Symbols ['A1BG', 'PCDHGA5', 'PCDHGB5', 'PCDHGC5']
-2025-08-17 18:03:45,461 - INFO - Multiple entries found for HGNC:7: Approved Symbols ['A2M', 'PCDHGA7', 'PCDHGB7']
-2025-08-17 18:03:45,649 - INFO - Multiple entries found for MDR1: Approved Symbols ['ABCB1', 'TBC1D9']
+2025-08-25 17:49:05,755 - INFO - Began new lookup using gene_lookup_v2.
+2025-08-25 17:49:07,128 - INFO -   Multiple entries found for UCN2
+2025-08-25 17:49:07,128 - INFO -     Match 1: UCN2 is a Approved symbol for UCN2
+2025-08-25 17:49:07,129 - INFO -     Match 2: UCN2 is a Alias symbols for UTS2
+2025-08-25 17:49:07,711 - INFO -   Multiple entries found for MDR1
+2025-08-25 17:49:07,711 - INFO -     Match 1: MDR1 is a Previous symbols for ABCB1
+2025-08-25 17:49:07,711 - INFO -     Match 2: MDR1 is a Alias symbols for TBC1D9
