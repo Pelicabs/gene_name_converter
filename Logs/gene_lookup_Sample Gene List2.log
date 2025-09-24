@@ -1,0 +1,7 @@
+2025-09-24 14:13:01,025 - INFO - Began new lookup using gene_lookup_v3.
+2025-09-24 14:13:04,451 - INFO - Entry not in downloaded database, using API: user_input_unmacthed_genes
+2025-09-24 14:13:06,879 - INFO - Unmatched entry found for gene: user_input_unmacthed_genes
+2025-09-24 14:13:06,981 - INFO - Entry not in downloaded database, using API: random_unmatch_gene1
+2025-09-24 14:13:09,513 - INFO - Unmatched entry found for gene: random_unmatch_gene1
+2025-09-24 14:13:09,614 - INFO - Entry not in downloaded database, using API: random_unmatch_gene2
+2025-09-24 14:13:13,733 - INFO - Unmatched entry found for gene: random_unmatch_gene2

@@ -1,0 +1,29 @@
+user_input,Approved symbol,Approved name,Previous symbols,Alias symbols,Kind,matching_status
+C6orf150,CGAS,cyclic GMP-AMP synthase,"C6orf150, MB21D1","h-cGAS, D4", Previous Symbol,matched
+UCN2,UCN2,urocortin 2,,"UCNI, SRP, URP, UCN-II", Approved Symbol,matched
+HGNC:11998,TP53,tumor protein p53,,"p53, LFS1", HGNC ID,matched
+HGNC:5,A1BG,alpha-1-B glycoprotein,,,HGNC ID,matched
+A1BG,A1BG,alpha-1-B glycoprotein,,,Approved Symbol,matched
+NCRNA00181,A1BG-AS1,A1BG antisense RNA 1,"NCRNA00181, A1BGAS, A1BG-AS",FLJ23569,Previous Symbol,matched
+ACF,A1CF,APOBEC1 complementation factor,,"ACF, ASP, ACF64, ACF65, APOBEC1CF",Alias Symbol,matched
+1.0,A1BG,alpha-1-B glycoprotein,,,NCBI Gene ID,matched
+ENSG00000121410,A1BG,alpha-1-B glycoprotein,,,Ensembl ID,matched
+HGNC:37133,A1BG-AS1,A1BG antisense RNA 1,"NCRNA00181, A1BGAS, A1BG-AS",FLJ23569,HGNC ID,matched
+A1BG-AS1,A1BG-AS1,A1BG antisense RNA 1,"NCRNA00181, A1BGAS, A1BG-AS",FLJ23569,Approved Symbol,matched
+A3GALT2P,A3GALT2,"alpha 1,3-galactosyltransferase 2",A3GALT2P,"IGBS3S, IGB3S",Previous Symbol,matched
+FLJ23569,A1BG-AS1,A1BG antisense RNA 1,"NCRNA00181, A1BGAS, A1BG-AS",FLJ23569,Alias Symbol,matched
+29974.0,A1CF,APOBEC1 complementation factor,,"ACF, ASP, ACF64, ACF65, APOBEC1CF",NCBI Gene ID,matched
+ENSG00000148584,A1CF,APOBEC1 complementation factor,,"ACF, ASP, ACF64, ACF65, APOBEC1CF",Ensembl ID,matched
+HGNC:7,A2M,alpha-2-macroglobulin,,"FWP007, S863-7, CPAMD5",HGNC ID,matched
+A2M,A2M,alpha-2-macroglobulin,,"FWP007, S863-7, CPAMD5",Approved Symbol,matched
+AA,TEAD1,TEA domain transcription factor 1,"TCF13, AA",TEF-1,Previous Symbol,matched
+MDR1,ABCB1,ATP binding cassette subfamily B member 1,"PGY1, MDR1, CLCS","P-gp, CD243, GP170, ABC20, p-170, PGY1",Alias Symbol,matched
+5243.0,ABCB1,ATP binding cassette subfamily B member 1,"PGY1, MDR1, CLCS","P-gp, CD243, GP170, ABC20, p-170, PGY1",NCBI Gene ID,matched
+ENSG00000085563,ABCB1,ATP binding cassette subfamily B member 1,"PGY1, MDR1, CLCS","P-gp, CD243, GP170, ABC20, p-170, PGY1",Ensembl ID,matched
+HGNC:42,ABCB11,ATP binding cassette subfamily B member 11,"BSEP, PFIC2","ABC16, SPGP, PFIC-2, PGY4",HGNC ID,matched
+ABCB11,ABCB11,ATP binding cassette subfamily B member 11,"BSEP, PFIC2","ABC16, SPGP, PFIC-2, PGY4",Approved Symbol,matched
+BSEP,ABCB11,ATP binding cassette subfamily B member 11,"BSEP, PFIC2","ABC16, SPGP, PFIC-2, PGY4",Previous Symbol,matched
+HDLDT1,ABCA1,ATP binding cassette subfamily A member 1,"ABC1, HDLDT1",TGD,Previous Symbol,matched
+19.0,ABCA1,ATP binding cassette subfamily A member 1,"ABC1, HDLDT1",TGD,NCBI Gene ID,matched
+ENSG00000165029,ABCA1,ATP binding cassette subfamily A member 1,"ABC1, HDLDT1",TGD,Ensembl ID,matched
+HGNC:14637,ABCA12,ATP binding cassette subfamily A member 12,ICR2B,"DKFZP434G232, LI2",HGNC ID,matched

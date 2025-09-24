@@ -1,7 +1,0 @@
-2025-08-25 17:49:05,755 - INFO - Began new lookup using gene_lookup_v2.
-2025-08-25 17:49:07,128 - INFO -   Multiple entries found for UCN2
-2025-08-25 17:49:07,128 - INFO -     Match 1: UCN2 is a Approved symbol for UCN2
-2025-08-25 17:49:07,129 - INFO -     Match 2: UCN2 is a Alias symbols for UTS2
-2025-08-25 17:49:07,711 - INFO -   Multiple entries found for MDR1
-2025-08-25 17:49:07,711 - INFO -     Match 1: MDR1 is a Previous symbols for ABCB1
-2025-08-25 17:49:07,711 - INFO -     Match 2: MDR1 is a Alias symbols for TBC1D9

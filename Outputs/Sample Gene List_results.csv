@@ -1,0 +1,11 @@
+user_input,Approved symbol,Approved name,Previous symbols,Alias symbols,matching_status
+"FUT11,FUT11",POFUT4,protein O-fucosyltransferase 4,"FUT11,FUT11",MGC33202,matched
+"ZNF673,KRBOX4",KRABD4,KRAB domain containing 4,"ZNF673,KRBOX4",FLJ20344,matched
+"ZNF720,KRBOX5",KRABD5,KRAB domain containing 5,"ZNF720,KRBOX5",,matched
+"MFSD4,MFSD4A",SLC60A1,solute carrier family 60 member 1,"MFSD4,MFSD4A","DKFZp761N1114, FLJ34577, UNQ3064, FLJ25004",matched
+"KIAA1919,MFSD4B",SLC60A2,solute carrier family 60 member 2,"KIAA1919,MFSD4B",MGC33953,matched
+"TMEM180,MFSD13A",SLC68A1,solute carrier family 68 member 1,"C10orf77, TMEM180,MFSD13A","FLJ22529, bA18I14.8",matched
+"HIAT1,MFSD14A",SLC71A1,solute carrier family 71 member 1,"HIAT1,MFSD14A",DKFZP564L0864,matched
+"HIATL1,MFSD14B",SLC71A2,solute carrier family 71 member 2,"HIATL1,MFSD14B",FLJ14753,matched
+"C13orf11,TMCO3",SLC9D1,solute carrier family 9 member D1,"C13orf11,TMCO3",FLJ20623,matched
+"C18orf45,TMEM241",SLC35D4,solute carrier family 35 member D4,"C18orf45,TMEM241","MGC11386, FLJ44259",matched
