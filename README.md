@@ -18,3 +18,7 @@ Primarily addresses issues of genes mapping to multiple records. This was combat
 - Rewrote transform_string to be cleaner and slightly faster by using partition for splitting
 - Modified search_single_gene to be faster by only opening the file once and uses sets for faster lookup
 - getData and convert_gene_names rewritten for less indentation
+
+# Version 4:
+1. Modified handling of NCBI/Entrez to just use .isdigit() instead of ReGex
+2. Got rid of code block in findAPI function that was unsafe

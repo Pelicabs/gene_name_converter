@@ -71,9 +71,6 @@ def transform_string(input_string):
         return input_string, "NCBI Gene ID"
     return input_string, None # Default: return as-is, with None type
 
-import csv
-import pandas as pd
-
 def _contains_gene(value, gene_name): # Helper function to return True if gene_name is in value (comma-separated or exact)
     if not value:
         return False
